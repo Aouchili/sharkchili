@@ -1,0 +1,6 @@
+com\example\spring_demo\service\MoviesService.class
+com\example\spring_demo\SpringDemoApplication.class
+com\example\spring_demo\dao\MoviesDao.class
+com\example\spring_demo\controller\MoviesController.class
+com\example\spring_demo\Utils\DaoFormUtils.class
+com\example\spring_demo\pojo\MoviesDto.class
